@@ -67,7 +67,7 @@ Git · GitHub · Docker · RabbitMQ · Postman · AWS
 ## 💬 Let's Connect
 
 - 📫 **Email:** danielriveri@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/danielriverainagan]([https://www.linkedin.com/in/danielriverainagan](https://www.linkedin.com/in/daniel-rivera-303988161/)
+- 💼 **LinkedIn:** [danielrivera](https://www.linkedin.com/in/daniel-rivera-303988161/)
 
 ---
 
