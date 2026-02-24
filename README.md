@@ -22,7 +22,7 @@ Backend developer passionate about building robust, scalable, and maintainable s
 
 ## 🎓 Education
 
-- 📘 Master's in Software Engineering – Pontificia Universidad Javeriana Cali (*Student*)
+- 📘 Master's in Software Engineering – Pontificia Universidad Javeriana Cali
 - 🎖️ Software Engineering Specialist – Pontificia Universidad Javeriana Cali 
 - 🎓 Electronic Engineering (Mechatronics focus) – Pontificia Universidad Javeriana Cali
 
