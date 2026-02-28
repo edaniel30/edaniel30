@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ever Daniel Rivera Inagán
-### Electronic Engineer | Software Engineer | Master's Student in Software Engineering
+### Electronic Engineer | MSc in Software Engineering | Software Engineering Specialist
 
-Backend developer passionate about building robust, scalable, and maintainable systems. Strong focus on automation, innovation, and IoT technologies. Currently pursuing a Master's in Software Engineering at Pontificia Universidad Javeriana Cali.
+Backend developer passionate about building robust, scalable, and maintainable systems. Strong focus on automation, innovation, and IoT technologies.
 
 ## 🔭 Current Role
 
@@ -30,7 +30,7 @@ Backend developer passionate about building robust, scalable, and maintainable s
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-Golang · Node.js · Kotlin · Python · Angular · NestJS
+Golang · Node.js · Python · Angular · NestJS
 
 **Databases:**  
 MongoDB · PostgreSQL
