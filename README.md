@@ -1,50 +1,50 @@
 # 👋 Hi there, I'm Ever Daniel Rivera Inagán
-### Electronic Engineer | MSc in Software Engineering | Software Engineering Specialist
 
-Backend developer passionate about building robust, scalable, and maintainable systems. Strong focus on automation, innovation, and IoT technologies.
+### MSc in Software Engineering | Software Engineering Specialist | Electronic Engineer
+
+Backend developer passionate about building robust, scalable, and maintainable systems. Currently focused on payments and fintech, with a strong background in automation, IoT, and electronics that lets me bridge hardware and software.
 
 ## 🔭 Current Role
 
-**Software Engineer (Integrations Team) at Yuno**
+**Software Engineer (Integrations) at Yuno**
 
-- Implementing integrations with payment providers using Golang and Kotlin
-- Deploying to production using blue/green and canary strategies
-- Monitoring performance metrics with Datadog, Metabase, and Redash
-- Participating in on-call rotation and performing root cause analysis (RCA)
+- Building new payment provider integrations in Golang — from full integrations to APMs within existing ones
+- Releasing to production with blue/green and canary strategies to avoid impact on transaction conversion
+- Monitoring production health with Datadog, Metabase, and Redash
+- Participating in on-call rotation and leading root-cause analysis (RCA) of critical incidents
+- Reviewing pull requests and documenting integration architecture to speed up onboarding
 - Leveraging AI tools (Cursor, Claude Code) for technical solutions
-- Documenting technical architecture and integration flows
 
 ## 🧠 Recent Experience
 
-#### 🛒 **Software Engineer** - *Mercado Libre* 
-#### 🚀 **Backend Developer** - *Rappi*  
-#### ♻️ **MEAN Stack Developer** - *Ecobot*   
+#### 🛒 **Software Engineer** — *Mercado Libre*
+#### 🚀 **Backend Developer** — *Rappi*
+#### ♻️ **MEAN Stack Developer** — *EcoBot AG Corp.*
 
 ## 🎓 Education
 
-- 📘 Master's in Software Engineering – Pontificia Universidad Javeriana Cali
-- 🎖️ Software Engineering Specialist – Pontificia Universidad Javeriana Cali 
-- 🎓 Electronic Engineering (Mechatronics focus) – Pontificia Universidad Javeriana Cali
-
+- 📘 **Master's Degree in Software Engineering** — Pontificia Universidad Javeriana Cali · 🎖️ *Honorable Mention for the thesis* ([verify](https://wallet.xertify.co/certificates/07984C36A005))
+- 🎖️ **Software Engineering Specialist** — Pontificia Universidad Javeriana Cali
+- 🎓 **Electronic Engineering** (Mechatronics focus) — Pontificia Universidad Javeriana Cali
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
+**Languages & Frameworks:**
 Golang · Node.js · Python · Angular · NestJS
 
-**Databases:**  
-MongoDB · PostgreSQL
+**Databases & Messaging:**
+PostgreSQL · MongoDB · RabbitMQ
 
-**Tools & DevOps:**  
-Docker · AWS (EC2, S3, VPC, ELB) · CloudFlare R2 · RabbitMQ · Git · Postman
+**Tools & DevOps:**
+Docker · AWS (EC2, S3, VPC, ELB) · Cloudflare R2 · Git · GitHub · Postman · Redash
 
-**AI & Automation:**  
-LLMs · N8N · Cursor · Claude Code
+**Observability & AI:**
+Datadog · Grafana Loki · LLMs · n8n · Cursor · Claude Code
 
 ## 💬 Let's Connect
 
-- 📫 **Email:** danielriveri@gmail.com  
-- 💼 **LinkedIn:** [danielrivera](https://www.linkedin.com/in/daniel-rivera-303988161/)
+- 📫 **Email:** danielriveri@gmail.com
+- 💼 **LinkedIn:** [daniel-rivera](https://www.linkedin.com/in/daniel-rivera-303988161/)
 
 ---
 
